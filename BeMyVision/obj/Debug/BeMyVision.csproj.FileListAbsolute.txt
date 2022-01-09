@@ -1,0 +1,12 @@
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\bin\Debug\BeMyVision.exe.config
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\bin\Debug\BeMyVision.exe
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\bin\Debug\BeMyVision.pdb
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.csproj.AssemblyReference.cache
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.Form1.resources
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.Form2.resources
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.Properties.Resources.resources
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.csproj.GenerateResource.cache
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.csproj.CoreCompileInputs.cache
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.exe
+C:\Users\Ayesha khan\source\repos\BeMyVision\BeMyVision\obj\Debug\BeMyVision.pdb
